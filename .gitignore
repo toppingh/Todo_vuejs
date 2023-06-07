@@ -1,0 +1,6 @@
+*.pyc
+*~
+/vnv_dj
+__pycache__
+todo_db
+.DS_Store
